@@ -1,0 +1,21 @@
+body {
+    font-family: serif;
+}
+
+.recipe {
+    color: cadetblue;
+}
+
+
+.comic {
+    font-family: "Comic Sans MS";
+    font-weight: 500;
+}
+
+
+.crazy {
+    font-size: 20px;
+    font-weight: 800;
+    color: gold;
+    background-color: rgb(131, 184, 184);
+}
