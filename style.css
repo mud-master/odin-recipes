@@ -2,20 +2,41 @@ body {
     font-family: serif;
 }
 
-.recipe {
-    color: cadetblue;
+.section {
+    margin: 8px 0px 8px 0px;
+    background-color: beige;
+    margin: 8px;
 }
 
+.title {
+    padding-top: 8px;
+    padding-left: 8px;
+    
+}
+.recipe {
+    color: cadetblue;
+    display: block;
+    font-size: 16px;
+    padding: 4px;
+}
 
 .comic {
     font-family: "Comic Sans MS";
     font-weight: 500;
 }
 
-
 .crazy {
     font-size: 20px;
     font-weight: 800;
     color: gold;
     background-color: rgb(131, 184, 184);
+    margin: 24px;
+    text-align: center;
+}
+
+.button {
+    padding: 4px;
+    margin: 8px;
+    background-color: brown;
+    color: darksalmon;
 }
